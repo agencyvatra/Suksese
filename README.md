@@ -39,7 +39,7 @@
 
 <body>
     <h1>Faleminderit p&euml;r aplikimin!</h1>
-    <p>Ne kemi marr&euml; t&euml; dh&euml;nat tuaja me sukses. Do t&euml; kontaktoheni s&euml; shpejti nga ekipi yn&euml;.</p>
+    <p>Do t&euml; kontaktoheni s&euml; shpejti nga ekipi yn&euml;.</p>
 </body>
 
 </html>
