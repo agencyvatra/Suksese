@@ -34,13 +34,33 @@
             font-size: 18px;
             color: #333;
         }
+
+        .image-container {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        img {
+            width: 100%;
+            max-width: 400px;
+        }
     </style>
 </head>
 
 <body>
+    <div class="image-container">
+        <!-- Insert your image URL here -->
+        <img src="https://via.placeholder.com/400" alt="Image description">
+    </div>
+    
     <h1>Faleminderit p&euml;r aplikimin!</h1>
     <p>Do t&euml; kontaktoheni s&euml; shpejti nga ekipi yn&euml;.</p>
+
+    <h2>Zertifiziertes</h2>
+    <p>UNIVERSITA CATTOLICA Priifungszentrum If “NOSTRA SIGNORA DEL BUON CONSIGLIO”</p>
+    <p>CENTRO LINGUISTICO DI ATENEO LANGUAGE TESTS call</p>
 </body>
 
 </html>
+
 
